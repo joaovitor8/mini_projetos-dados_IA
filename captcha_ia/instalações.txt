@@ -1,0 +1,14 @@
+pip install opencv-python Pillow scikit-learn imutils numpy tensorflow keras
+
+
+
+https://www.youtube.com/playlist?list=PLpdAy0tYrnKwbexZqyiXsFUa1M__TRRTx
+
+
+
+python -m venv .venv
+.venv\Scripts\Activate
+
+
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
